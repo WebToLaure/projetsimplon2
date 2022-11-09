@@ -13,6 +13,7 @@ header {
 
 code {
     background-color: #f1f1f1;
+    border: 1px solid #e1e1e1;
 }
 
 .paragraphe {
@@ -50,6 +51,7 @@ h1{
     margin-left: 11%;
 }
 
-.code {
-    margin-left: 50%;
+.cose{
+    margin-left: 11%;
+    margin-right: 11%;
 }
