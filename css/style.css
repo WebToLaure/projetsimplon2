@@ -1,5 +1,6 @@
 body {
     background-color: #f2f5f7;
+    font-family: 'Raleway',sans-serif;
 }
 
 header {
@@ -11,7 +12,7 @@ header {
 }
 
 code {
-    background-color: lightgray;
+    background-color: #f1f1f1;
 }
 
 .paragraphe {
@@ -47,4 +48,8 @@ p{
 h1{
     font-size: 35px;
     margin-left: 11%;
+}
+
+.code {
+    margin-left: 50%;
 }
