@@ -2,7 +2,6 @@ body {
     background-color: rgb(234, 231, 231);
 }
 header {
-    position: sticky;
     background-color: white;
     box-shadow: 2px 2px 7px 1px lightgray;
 }
