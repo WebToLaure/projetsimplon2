@@ -1,6 +1,7 @@
 body {
     background-color: #f2f5f7;
-    font-family: 'Raleway',sans-serif;
+    font-size: 12px;
+    font-weight: bold;
 }
 
 header {
@@ -38,20 +39,44 @@ ul {
     margin-left: 11%;
 }
 
-h2 {
-    font-size: 35px;
-}
+
 
 p{
     margin-right: 38%;
 }
 
 h1{
-    font-size: 35px;
     margin-left: 11%;
 }
 
 .cose{
     margin-left: 11%;
     margin-right: 11%;
+}
+
+a {
+    background-color: #ce0033;
+    color: white;
+    padding: 5px 30px 5px 30px;
+    border-radius: 5px 5px 5px 5px;
+    text-decoration: none;
+    font-size: small;
+}
+
+.column {
+    display: inline-flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    margin-top: 50px;
+    gap: 120px;
+}
+
+h1,h2,h3 {
+    font-size: 28px;
+    font-weight: bold;
+}
+
+strong {
+    font-weight: 1500;
 }
